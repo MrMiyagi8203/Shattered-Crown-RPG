@@ -5,7 +5,7 @@ Welcome to **Dungeons of the Shattered Crown!** The Crown has shattered, its sea
 
 ## 1. Getting Started
 
-1. Open `shattered-crown-ascendant.html` in a modern web browser.
+1. Open `Index.html` in a modern web browser.
 2. Start a new game and create your character.
 3. Choose a class that fits your preferred play style.
 4. Begin exploring and learn the game's mechanics as you progress.
